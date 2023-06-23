@@ -1,0 +1,122 @@
+{
+  "arabica": [
+    {
+      "foto": "https://tse4.mm.bing.net/th?id=OIP.2j43RLZKhadppcAcfxjhzAHaE8&pid=Api&P=0&h=180 width=700px height 700px",
+      "nama": "Arabica Sumatera",
+      "size": "500 Gram",
+      "harga": "200.000",
+      "link": "https://www.google.com/search?q=sumatera+arabica&tbm=shop"
+    },
+    {
+      "foto": "https://live.staticflickr.com/1809/43478393971_f342a05e6e_b.jpg",
+      "nama": "Arabica Toraja",
+      "size": "100 Gram",
+      "harga": "100.000",
+      "link": "https://www.google.com/search?q=Toraja+arabica&tbm=shop"
+    },
+    {
+      "foto": "https://tse3.mm.bing.net/th?id=OIP.MSfpJPge3sXV7mmdc4FtEwHaE8&pid=Api&P=0&h=180",
+      "nama": "Latte Arabica",
+      "size": "150 Gram",
+      "harga": "150.000",
+      "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+    },
+    {
+      "foto": "https://1.bp.blogspot.com/-ZAnMEFcJJAk/T2YxDDjUjkI/AAAAAAAABHM/G7JVNLdgv3M/s1600/Kapulaga.jpg",
+      "nama": "Arabica Bali",
+      "size": "150 Gram",
+      "harga": "150.000",
+      "link": "https://www.google.com/search?q=bali+arabica&tbm=shop"
+    }
+  ],
+  "robusta": [
+    {
+      "foto": "https://foto.wuestenigel.com/wp-content/uploads/api2/freshly-brewed-espresso-in-a-white-cup-on-a-background-of-coffee-beans.jpeg",
+      "nama": "Kopsus Robusta",
+      "size": "100 Gram",
+      "harga": "500.000",
+      "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+    },
+    {
+      "foto": "https://c1.staticflickr.com/5/4586/38356245336_6b439c3843_b.jpg",
+      "nama": "Latte Robusta",
+      "size": "150 Gram",
+      "harga": "150.000",
+      "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+    },
+    {
+      "foto": "https://live.staticflickr.com/65535/47698955252_399f140610.jpg",
+      "nama": "Robusta Dampit Malang",
+      "size": "150 Gram",
+      "harga": "150.000",
+      "link": "https://www.google.com/search?q=dampitmalang+robusta&tbm=shop"
+    },
+    {
+      "foto": "https://tse3.mm.bing.net/th?id=OIP.-1OWKLnC9Bxelw_gM_kxqAAAAA&pid=Api&P=0&h=180",
+      "nama": "Robusta Bali",
+      "size": "150 Gram",
+      "harga": "150.000",
+      "link": "https://www.google.com/search?q=robustabali+robusta&tbm=shop"
+    }
+  ],
+  "Non_Coffe": [
+    {
+      "foto": "https://tse2.mm.bing.net/th?id=OIP.sPJTm8ipEzdra6kGA21NrwHaI3&pid=Api&P=0&h=180",
+      "nama": "Red velvet",
+      "size": "500 ml",
+      "harga": "20.000",
+      "link": "https://www.google.com/search?q=redvelvet+robusta&tbm=shop"
+    },
+    {
+      "foto": "https://i2.wp.com/pickfreshfoods.com/wp-content/uploads/2014/05/Orange-Mango-Smoothie-Pick-Fresh-Foods-6.jpg?resize=680%2C900",
+      "nama": "Mango Fruit",
+      "size": "500 ml",
+      "harga": "20.000",
+      "link": "https://www.google.com/search?q=Mango+Fruit+robusta&tbm=shop"
+    },
+    {
+      "foto": "https://www.foodista.com/sites/default/files/styles/recype/public/Cup-Lemon-Tea.jpg",
+      "nama": "Lemon Tea",
+      "size": "500 ml",
+      "harga": "15.000",
+      "link": "https://www.google.com/search?q=lemon+tea+robusta&tbm=shop"
+    },
+    {
+      "foto": "https://wikitravel.org/upload/shared/thumb/9/95/IndonesianFood_JusAlpokat.JPG/600px-IndonesianFood_JusAlpokat.JPG",
+      "nama": "Jus Alpukat",
+      "size": "500 ml",
+      "harga": "15.000",
+      "link": "https://www.google.com/search?q=jus+alpukat+robusta&tbm=shop"
+    }
+  ],
+  "Makanan": [
+    {
+      "foto": "https://tse3.mm.bing.net/th?id=OIP.TDqvUkGHp8QHCQwIh5wYwwHaFi&pid=Api&P=0&h=180",
+      "nama": "Kentang",
+      "size": "Satu Piring",
+      "harga": "15.000",
+      "link": "https://www.google.com/search?q=kentang+goreng+cafe+robusta&tbm=shop"
+    },
+    {
+      "foto": "http://4.bp.blogspot.com/-aIdP2G7GD7g/U4TAiGW3GSI/AAAAAAAAEEw/5d4-qS9eLXs/s1600/jamur-kancing-goreng-tepung-renyah.jpg",
+      "nama": "Jamur Krispi",
+      "size": "Satu piring",
+      "harga": "15.000",
+      "link": "https://www.google.com/search?q=jamur+krispi+cafe+robusta&tbm=shop"
+    },
+    {
+      "foto": "https://foto.wuestenigel.com/wp-content/uploads/api/spaghetti-bolognese-served-on-the-plate.jpeg",
+      "nama": "Spagetti Spesial",
+      "size": "Satu Piring",
+      "harga": "20.000",
+      "link": "https://www.google.com/search?q=spagetti+spesial+cafe&tbm=shop"
+    },
+    {
+      "foto": "https://live.staticflickr.com/1650/25117612146_4ea5a8c07a_b.jpg",
+      "nama": "Nasi Goreng Spesial",
+      "size": "Satu Piring",
+      "harga": "30.000",
+      "link": "https://www.google.com/search?q=nasi+goreng&tbm=shop"
+    }
+  ]
+}
